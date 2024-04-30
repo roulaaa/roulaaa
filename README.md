@@ -59,6 +59,6 @@
 </div>
 <div align="center">
   <hr>
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=1000&color=CDEEFF&multiline=true&random=false&width=531&height=45&lines=Nothing+is+as+permanent+as+a+temporary+solution+that+works" alt="Typing SVG" /></a>
 </div>
 
