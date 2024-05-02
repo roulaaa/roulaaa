@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./assets/github-header-image.png)
 <h2 align="center">🛠️ Technology Stack 🛠️</h2>
 <div align="center">
   <h3>Languages</h3>
