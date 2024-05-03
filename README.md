@@ -1,4 +1,11 @@
-![Header](./assets/github-header-image.png)
+<p align="center">
+  <img src="./assets/github-header-image.png" alt="Header">
+  <img width="200" height="200" alt="i have no idea what im doing" src="./assets/confusion.gif">
+  <img width="200" height="200" alt="i have no idea what im doing" src="./assets/confusion.gif">
+  <img width="200" height="200" alt="i have no idea what im doing" src="./assets/confusion.gif">
+  <img width="200" height="200" alt="i have no idea what im doing" src="./assets/confusion.gif">
+</p>
+
 <h2 align="center">🛠️ Technology Stack 🛠️</h2>
 <div align="center">
   <h3>Languages</h3>
