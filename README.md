@@ -1,5 +1,8 @@
 <p align="center">
   <img src="./assets/github-header-image.png" alt="Header">
+</p>
+<hr>
+<p align="center">
   <img width="200" height="200" alt="i have no idea what im doing" src="./assets/confusion.gif">
   <img width="200" height="200" alt="i have no idea what im doing" src="./assets/confusion.gif">
   <img width="200" height="200" alt="i have no idea what im doing" src="./assets/confusion.gif">
