@@ -50,11 +50,12 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
 
 </div>
 <div align="center">
   <hr>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=1000&color=CDEEFF&multiline=true&random=false&width=531&height=45&lines=Nothing+is+as+permanent+as+a+temporary+solution+that+works" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  
+   font=Fira+Code&size=15&duration=4500&pause=1000&color=CDEEFF&multiline=true&random=false&width=531&height=45&lines=Nothing+is+as+permanent+as+a+temporary+solution+that+works" alt="Typing SVG" /></a>
 </div>
 
